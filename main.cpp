@@ -2,6 +2,6 @@
 
 int main()
 {
-std::cout<<"\nhello GIT.\n";
+cout<<"\nhello GIT. My new HOME\n"<<std::flush;
 return 0;
 }
